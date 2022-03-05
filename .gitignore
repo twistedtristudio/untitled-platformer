@@ -83,7 +83,6 @@ crashlytics-build.properties
 **/.idea/**/contentModel.xml
 **/.idea/**/modules.xml
 
-/[Bb]in/
 /_UpgradeReport_Files/
 /[Pp]ackages/
 
